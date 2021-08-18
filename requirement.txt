@@ -1,0 +1,13 @@
+Software versions:
+-Python 3.8
+-Miniconda3
+
+To install the required packages, first activate py38 in the miniconda3 prompt and then enter 'pip install[package name]'
+The following packages are required:
+- PyQt5
+- torch
+- torchvision
+- requests
+- Resource
+- matplotlib
+- pyqtgraph
